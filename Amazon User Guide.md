@@ -4,7 +4,7 @@ To order somwething in amazon , you need to have a amazon accout .
 
 1. To create an amazon account go to your web browser and [Visit Amazon](https://www.amazon.in)
 
-2. As shown in the following screenshot, click the 'Account' dropdown <img width="1848" height="193" alt="amazon account" src="https://github.com/user-attachments/assets/4bb3b224-2fe9-4a73-8d1b-b15fec8854b9" />
+2. As shown in the following image, click the 'Account' dropdown <img width="1848" height="193" alt="amazon account" src="https://github.com/user-attachments/assets/4bb3b224-2fe9-4a73-8d1b-b15fec8854b9" />
 
 3. Select [Start here](https://www.amazon.in/ap/register?openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3F_encoding%3DUTF8%26adgrpid%3D155259813593%26gad_source%3D1%26hvadid%3D674893540034%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9062029%26hvnetw%3Dg%26hvpone%3D%26hvpos%3D%26hvptwo%3D%26hvqmt%3De%26hvrand%3D17547339024666097808%26hvtargid%3Dkwd-64107830%26hydadcr%3D14452_2316413%26ref%3Dpd_sl_5szpgfto9i_e%26tag%3Dgooghydrabk1-21%26ref_%3Dnav_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0) to begin the registration process. 
 
@@ -12,10 +12,13 @@ To order somwething in amazon , you need to have a amazon accout .
 
 4. Once you select Start here, the **"Create Account"** form will appear.
 
-  Enter your email address or phone number on which you want to create the  account.
+  Enter your email address or phone number to verify with a otp.
   
  _**Note:** (Ensure you have immediate access to your chosen verification method (mobile or email) to retrieve your OTP)_
  <img width="481" height="357" alt="Screenshot 2026-04-20 205525" src="https://github.com/user-attachments/assets/2b60b7c3-6254-463d-8081-a699ac0661ab" />
+
+ 5. As you are new customer you will get a  "Account Creation Prompt" as shown in the following image,  click "Proceed to create an account" .<img width="541" height="497" alt="Screenshot 2026-04-20 210625" src="https://github.com/user-attachments/assets/6f4b4895-a6b1-46b5-bb55-d339bc1495f1" />
+
 
 
 
