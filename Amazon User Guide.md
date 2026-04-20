@@ -10,7 +10,7 @@ To order somwething in amazon , you need to have a amazon accout .
 
 <img width="610" height="190" alt="Screenshot 2026-04-20 204730" src="https://github.com/user-attachments/assets/51818cf0-8029-44a4-a4b0-0deb7c01e15d" />
 
-4. Once you select Start here, the "Create Account" form will appear.
+4. Once you select Start here, the **"Create Account"** form will appear.
 
   Enter your email address or phone number on which you want to create the  account.
  <img width="481" height="357" alt="Screenshot 2026-04-20 205525" src="https://github.com/user-attachments/assets/2b60b7c3-6254-463d-8081-a699ac0661ab" />
