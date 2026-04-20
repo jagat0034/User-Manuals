@@ -13,6 +13,8 @@ To order somwething in amazon , you need to have a amazon accout .
 4. Once you select Start here, the **"Create Account"** form will appear.
 
   Enter your email address or phone number on which you want to create the  account.
+  
+ _**Note:** (Ensure you have immediate access to your chosen verification method (mobile or email) to retrieve your OTP)_
  <img width="481" height="357" alt="Screenshot 2026-04-20 205525" src="https://github.com/user-attachments/assets/2b60b7c3-6254-463d-8081-a699ac0661ab" />
 
 
