@@ -12,7 +12,9 @@ To order somwething in amazon , you need to have a amazon accout .
 
   Enter your email address or phone number to verify with a otp.
   
- _**Note:** (Ensure you have immediate access to your chosen verification method (mobile or email) to retrieve your OTP)_ <img width="481" height="357" alt="Screenshot 2026-04-20 205525" src="https://github.com/user-attachments/assets/2b60b7c3-6254-463d-8081-a699ac0661ab" />
+> [!NOTE]
+>  Ensure you have immediate access to your chosen verification method (mobile or email) to retrieve your OTP.
+<img width="481" height="357" alt="Screenshot 2026-04-20 205525" src="https://github.com/user-attachments/assets/2b60b7c3-6254-463d-8081-a699ac0661ab" />
 
  5. As you are new customer you will get a  "Account Creation Prompt" as shown in the following image,  click "Proceed to create an account" .<img width="541" height="497" alt="Screenshot 2026-04-20 210625" src="https://github.com/user-attachments/assets/6f4b4895-a6b1-46b5-bb55-d339bc1495f1" />
 
@@ -24,6 +26,13 @@ To order somwething in amazon , you need to have a amazon accout .
    _Tip: Use a mix of letters, numbers, and symbols for better security._
 
  * Click Verify mobile number. <img width="538" height="652" alt="image" src="https://github.com/user-attachments/assets/ef58b266-d6b5-4249-aca9-c8c89186aa5f" />
+
+
+> [!NOTE]
+> **Security Check:** You may be prompted to solve a quick puzzle (CAPTCHA) to verify that you are a human user. Follow the on-screen instructions to complete the challenge and proceed.
+
+7. OTP Verification - Once the security check is complete, Amazon will send a 6-digit One-Time Password (OTP) to your mobile number.<img width="600" height="367" alt="otp" src="https://github.com/user-attachments/assets/37b86e65-b296-4f3f-a4bf-0f01846221cf" />
+
 
 
    
