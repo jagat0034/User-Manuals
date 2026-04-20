@@ -26,8 +26,10 @@ To order somwething in amazon , you need to have a amazon accout .
  * Mobile number: Ensure the country code is set to IN +91 and enter your 10-digit mobile number.
  * Your name: Enter your full name as you want it to appear on your Amazon profile.
  * Password: Create a password of at least 6 characters.
+>  _Use a mix of letters, numbers, and symbols for better security._
 
-   _Tip: Use a mix of letters, numbers, and symbols for better security._
+> [!WARNING]
+> **Security Tip:** Never share your Amazon password or OTP with anyone. Amazon representatives will never ask for your password via phone, email, or SMS.
 
  * Click Verify mobile number. <img width="538" height="652" alt="image" src="https://github.com/user-attachments/assets/ef58b266-d6b5-4249-aca9-c8c89186aa5f" />
 
