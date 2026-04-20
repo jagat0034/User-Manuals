@@ -33,6 +33,18 @@ To order somwething in amazon , you need to have a amazon accout .
 
 7. OTP Verification - Once the security check is complete, Amazon will send a 6-digit One-Time Password (OTP) to your mobile number.<img width="600" height="367" alt="otp" src="https://github.com/user-attachments/assets/37b86e65-b296-4f3f-a4bf-0f01846221cf" />
 
+8. Finalize Your Account
+Once you enter the OTP and click **Create your Amazon account**, the verification process is complete. 
+
+You will be redirected to the Amazon homepage. You can confirm you are logged in by checking the navigation bar at the top right, which should now display "Hello, [Your Name]."
+
+* Next Steps
+Now that your account is active, you may want to:
+* **Add a Delivery Address:** Go to **Account & Lists** > **Your Addresses** to save your shipping details.
+* **Set up Payments:** Add a credit/debit card or UPI ID for faster checkout.
+<img width="1842" height="93" alt="Screenshot 2026-04-20 214255" src="https://github.com/user-attachments/assets/b6b9f01b-4fd3-4f94-8481-76d573d8b4f8" />
+
+
 
 
    
