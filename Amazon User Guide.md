@@ -19,6 +19,19 @@ To order somwething in amazon , you need to have a amazon accout .
 
  5. As you are new customer you will get a  "Account Creation Prompt" as shown in the following image,  click "Proceed to create an account" .<img width="541" height="497" alt="Screenshot 2026-04-20 210625" src="https://github.com/user-attachments/assets/6f4b4895-a6b1-46b5-bb55-d339bc1495f1" />
 
+6. After proceeding, you must fill in your personal details to set up the account.
+ * Mobile number: Ensure the country code is set to IN +91 and enter your 10-digit mobile number.
+ * Your name: Enter your full name as you want it to appear on your Amazon profile.
+ * Password: Create a password of at least 6 characters.
+
+   _Tip: Use a mix of letters, numbers, and symbols for better security._![Uploading Screenshot 2026-04-20 211958.png…]()
+
+ * Click Verify mobile number.
+
+  <img width="538" height="652" alt="image" src="https://github.com/user-attachments/assets/ef58b266-d6b5-4249-aca9-c8c89186aa5f" />
+
+
+   
 
 
 
