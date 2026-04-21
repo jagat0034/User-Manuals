@@ -2,7 +2,7 @@
 
 To order somwething in amazon , you need to have a amazon account.
 
-1. To create an amazon account go to your web browser and [Visit Amazon](https://www.amazon.in)
+1. To create an amazon account go to your web browser and [Visit Amazon](https://www.amazon.in).
 > [!NOTE]
 > Before starting the registration process, ensure the following:
 >* You have a stable **internet connection**.
