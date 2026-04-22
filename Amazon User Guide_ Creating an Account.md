@@ -35,7 +35,7 @@ Before starting the registration process, ensure you have:
 > Use a mix of letters, numbers, and symbols for better security. Passwords are case-sensitive.
 
 > [!WARNING]
-> **Warning:** Never share your Amazon password or OTP with anyone. Amazon representatives will never ask for your password via phone, email, or SMS.
+> Never share your Amazon password or OTP with anyone. Amazon representatives will never ask for your password via phone, email, or SMS.
 
 7. Click **Verify mobile number**.
 <img width="538" height="652" alt="Completed registration form showing the Verify mobile number button" src="https://github.com/user-attachments/assets/ef58b266-d6b5-4249-aca9-c8c89186aa5f" />
