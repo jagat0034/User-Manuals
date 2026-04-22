@@ -28,7 +28,7 @@ Before starting the registration process, ensure you have:
    * **Mobile number:** Ensure the country code is set correctly (e.g., IN +91) and enter your 10-digit number.
    * **Password:** Create a password of at least 6 characters.
 > [!TIP]
->  _Tip: Use a mix of letters, numbers, and symbols for better security._
+>  _Use a mix of letters, numbers, and symbols for better security._
 
 > [!WARNING]
 > **Security Tip:** Never share your Amazon password or OTP with anyone. Amazon representatives will never ask for your password via phone, email, or SMS.
