@@ -32,7 +32,8 @@ Before starting the registration process, ensure you have:
    * **Password:** Create a password of at least 6 characters.
 
 > [!TIP]
-> Use a mix of letters, numbers, and symbols for better security.
+> Create a password of at least 6 characters, use a mix of letters, numbers, and symbols for better security.
+ Note: Passwords are case-sensitive.
 
 > [!WARNING]
 > **Security Tip:** Never share your Amazon password or OTP with anyone. Amazon representatives will never ask for your password via phone, email, or SMS.
@@ -41,7 +42,7 @@ Before starting the registration process, ensure you have:
 <img width="538" height="652" alt="Completed registration form showing the Verify mobile number button" src="https://github.com/user-attachments/assets/ef58b266-d6b5-4249-aca9-c8c89186aa5f" />
 
 > [!NOTE]
-> **Security Check:** You may be prompted to solve a quick puzzle (CAPTCHA) to verify that you are a human user. Follow the on-screen instructions to complete the challenge.
+> **Security Check:** If a security challenge appears, follow the on-screen instructions to solve the puzzle.
 
 8. Check your mobile or email for the 6-digit One-Time Password (OTP).
 
@@ -50,7 +51,7 @@ Before starting the registration process, ensure you have:
 
 ## Verification and Next Steps
 
-Once the verification process is complete, you will be redirected to the Amazon homepage. You can confirm your login status by checking the navigation bar at the top right, which should now display **"Hello, [Your Name]."**
+After verification, the Amazon homepage displays. You can confirm your login status by checking the navigation bar at the top right, which should now display **"Hello, [Your Name]."**
 <img width="1842" height="93" alt="Amazon navigation bar showing successful login" src="https://github.com/user-attachments/assets/b6b9f01b-4fd3-4f94-8481-76d573d8b4f8" />
 
 Now that your account is active, you can:
