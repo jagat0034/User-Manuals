@@ -1,6 +1,6 @@
 # Amazon User Guide: Creating an Account
 
-To order products on Amazon, you must first create a user account.
+To order products on Amazon, you need an account. This guide helps you complete the account creation process on Amazon.
 
 ### Prerequisites
 Before starting the registration process, ensure you have:
@@ -11,7 +11,7 @@ Before starting the registration process, ensure you have:
 
 1. Open your web browser and navigate to [Amazon](https://www.amazon.in).
 
-2. Hover over the **Hello, sign in / Account & Lists** dropdown at the top right of the homepage.
+2. Move your mouse to the the **Hello, sign in / Account & Lists** dropdown at the top right of the homepage.
 <img width="1848" height="193" alt="Amazon Account and Lists dropdown menu" src="https://github.com/user-attachments/assets/4bb3b224-2fe9-4a73-8d1b-b15fec8854b9" />
 
 3. Click **Start here** (located right below the Sign in button) to begin the registration process. 
