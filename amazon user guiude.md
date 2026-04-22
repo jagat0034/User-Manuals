@@ -45,6 +45,8 @@ Before starting the registration process, ensure you have:
 > **Security Check:** If a security challenge appears, follow the on-screen instructions to solve the puzzle.
 
 8. Check your mobile or email for the 6-digit One-Time Password (OTP).
+>[!NOTE]
+>The OTP is valid for 10 minutes.
 
 9. Enter the OTP into the verification screen and click **Create your Amazon account**.
 <img width="600" height="367" alt="OTP verification entry screen" src="https://github.com/user-attachments/assets/37b86e65-b296-4f3f-a4bf-0f01846221cf" />
