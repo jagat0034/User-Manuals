@@ -32,11 +32,11 @@ Before starting the registration process, ensure you have:
    * **Password:** Create a password of at least 6 characters.
 
 > [!TIP]
-> Create a password of at least 6 characters, use a mix of letters, numbers, and symbols for better security.
+> Use a mix of letters, numbers, and symbols for better security.
  Note: Passwords are case-sensitive.
 
 > [!WARNING]
-> **Security Tip:** Never share your Amazon password or OTP with anyone. Amazon representatives will never ask for your password via phone, email, or SMS.
+> Never share your Amazon password or OTP with anyone. Amazon representatives will never ask for your password via phone, email, or SMS.
 
 7. Click **Verify mobile number**.
 <img width="538" height="652" alt="Completed registration form showing the Verify mobile number button" src="https://github.com/user-attachments/assets/ef58b266-d6b5-4249-aca9-c8c89186aa5f" />
@@ -45,7 +45,7 @@ Before starting the registration process, ensure you have:
 > **Security Check:** If a security challenge appears, follow the on-screen instructions to solve the puzzle.
 
 8. Check your mobile or email for the 6-digit One-Time Password (OTP).
->[!NOTE]
+> [!NOTE]
 >The OTP is valid for 10 minutes.
 
 9. Enter the OTP into the verification screen and click **Create your Amazon account**.
