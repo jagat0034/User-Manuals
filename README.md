@@ -8,6 +8,6 @@ As a technical writer, I specialize in translating complex technical concepts in
 
 Here are a few samples of my recent documentation work:
 
-* **[Amazon User Guide: Creating an Account]([./Amazon-User-Guide.md](https://github.com/jagat0034/Amazon-account-setup-documentation/blob/main/Amazon%20User%20Guide%3A%20Creating%20an%20Account.md)):** A step-by-step consumer guide demonstrating task-based formatting, sequential instructions, and the effective use of UI callouts and warnings.
+*Amazon User Guide: Creating an Account: A step-by-step consumer guide demonstrating task-based formatting, sequential instructions, and the effective use of UI callouts and warnings.
 
 
