@@ -2,7 +2,7 @@
 
 ## Introduction
 
-To order products on Amazon, you need an account. This guide helps you complete the account creation process on Amazon.
+To order products on Amazon, you need an account. Use this guide to create your Amazon account.
 
 ## Prerequisites
 
@@ -12,9 +12,9 @@ Before starting the registration process, ensure you have:
 
 ## Registration Steps
 
-1. Open your web browser and navigate to [Amazon](https://www.amazon.in).
+1. Open your web browser and go to the Amazon India homepage [amazon.in](https://www.amazon.in).
 
-2. Move your mouse to the **Hello, sign in / Account & Lists** dropdown at the top right of the homepage.
+2. Point to the **Hello, sign in / Account & Lists** dropdown at the top right of the homepage.
 
 
 3. Click **Start here** (located right below the Sign in button) to begin the registration process.
@@ -43,7 +43,7 @@ Before starting the registration process, ensure you have:
 > [!NOTE]
 > **Security Check:** If a security challenge appears, follow the on-screen instructions to solve the puzzle.
 
-8. Check your mobile or email for the 6-digit One-Time Password (OTP).
+8. Look for the OTP in your email or text messages.
 
 > [!NOTE]
 > The OTP is valid for 10 minutes.
