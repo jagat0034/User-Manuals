@@ -12,12 +12,12 @@ Before starting the registration process, ensure you have:
 
 ## Registration Steps
 
-1. Open your web browser and go to the Amazon India homepage [amazon.in](https://www.amazon.in).
+1. Go to the Amazon India homepage [amazon.in](https://www.amazon.in).
 
 2. Point to the **Hello, sign in / Account & Lists** dropdown at the top right of the homepage.
 
 
-3. Click **Start here** (located right below the Sign in button) to begin the registration process.
+3. Select **Start here** (located right below the Sign in button) to begin the registration process.
 
 
 4. On the Account Creation form, enter your email address or mobile number.
@@ -29,7 +29,7 @@ Before starting the registration process, ensure you have:
 6. Fill in your personal details to set up the account:
    * **Your name:** Enter your full name as you want it to appear on your profile.
    * **Mobile number:** Ensure the country code is set correctly (e.g., IN +91) and enter your 10-digit number.
-   * **Password:** Enter a password in the password field.
+   * **Password:** In the Password box, enter a password.
 
 > [!TIP]
 > Use a mix of letters, numbers, and symbols for better security. Passwords are case-sensitive.
@@ -53,7 +53,7 @@ Before starting the registration process, ensure you have:
 
 ## Verification and Next Steps
 
-After verification is complete, you are redirected to the Amazon homepage. You can confirm your login status by checking the navigation bar at the top right, which should now display **"Hello, [Your Name]."**
+After verification is complete, you are redirected to the Amazon homepage. You can confirm your login status by checking the navigation bar at the top right, which displays **"Hello, [Your Name]."**
 
 
 Now that your account is active, you can:
