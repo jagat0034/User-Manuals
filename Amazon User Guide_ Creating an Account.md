@@ -1,4 +1,4 @@
-# Amazon User Guide: Creating an Account
+# Amazon User Guide : Create an Account
 
 ## Introduction
 
