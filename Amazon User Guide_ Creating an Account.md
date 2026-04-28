@@ -1,4 +1,4 @@
-# Amazon User Guide : Create an Account
+# Amazon User Guide: Create an Account
 
 ## Introduction
 
@@ -17,7 +17,7 @@ Before starting the registration process, ensure you have:
 2. Point to the **Hello, sign in / Account & Lists** dropdown at the top right of the homepage.
 
 
-3. Select **Start here** (located right below the Sign in button) to begin the registration process.
+3. Select **Start here** (located right below the **Sign in** button) to begin the registration process.
 
 
 4. On the Account Creation form, enter your email address or mobile number.
@@ -28,7 +28,7 @@ Before starting the registration process, ensure you have:
 
 6. Fill in your personal details to set up the account:
    * **Your name:** Enter your full name as you want it to appear on your profile.
-   * **Mobile number:** Ensure the country code is set correctly (e.g., IN +91) and enter your 10-digit number.
+   * **Mobile number:** Ensure the country code is set correctly (for example IN +91) and enter your 10-digit number.
    * **Password:** In the Password box, enter a password.
 
 > [!TIP]
@@ -58,6 +58,6 @@ After verification is complete, you are redirected to the Amazon homepage. You c
 
 Now that your account is active, you can:
 * **Add a Delivery Address:** Go to **Account & Lists** > **Your Addresses** to save your shipping details.
-* **Set up Payments:** Add a credit/debit card or UPI ID for faster checkout.
+* **Set up Payments:** Add a credit card or debit card or UPI ID for faster checkout.
 
 You are now ready to start shopping on Amazon.
