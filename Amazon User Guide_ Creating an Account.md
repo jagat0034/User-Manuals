@@ -6,7 +6,7 @@ To order products on Amazon, you need an account. Use this guide to create your 
 
 ## Prerequisites
 
-Before starting the registration process, ensure you have:
+Before starting the registration process, make sure you have:
 * A stable internet connection.
 * Immediate access to a valid mobile number or email address for verification.
 
@@ -20,16 +20,16 @@ Before starting the registration process, ensure you have:
 3. Select **Start here** (located right below the **Sign in** button) to begin the registration process.
 
 
-4. On the Account Creation form, enter your email address or mobile number.
+4. On the account creation form, enter your email address or mobile number.
 
 
-5. If an Account Creation Prompt appears, select **Proceed to create an account**.
+5. If an account creation prompt appears, select **Proceed to create an account**.
 
 
 6. Fill in your personal details to set up the account:
-   * **Your name:** Enter your full name as you want it to appear on your profile.
-   * **Mobile number:** Ensure the country code is set correctly (for example IN +91) and enter your 10-digit number.
-   * **Password:** In the Password box, enter a password.
+   * **Your name:** In the **Your name** box, enter your full name.
+   * **Mobile number:** Verify the country code is set correctly (for example IN +91) and enter your 10-digit number.
+   * **Password:** In the **Password** box, enter a password.
 
 > [!TIP]
 > Use a mix of letters, numbers, and symbols for better security. Passwords are case-sensitive.
@@ -53,11 +53,11 @@ Before starting the registration process, ensure you have:
 
 ## Verification and Next Steps
 
-After verification is complete, you are redirected to the Amazon homepage. You can confirm your login status by checking the navigation bar at the top right, which displays **"Hello, [Your Name]."**
+After verification is complete, the Amazon homepage appears. You can confirm your login status by checking the navigation bar at the top right, which displays **Hello, [Your Name]**.
 
 
 Now that your account is active, you can:
 * **Add a Delivery Address:** Go to **Account & Lists** > **Your Addresses** to save your shipping details.
-* **Set up Payments:** Add a credit card or debit card or UPI ID for faster checkout.
+* **Set up Payments:** Add a credit card, debit card or UPI ID for faster checkout.
 
 You are now ready to start shopping on Amazon.
