@@ -23,7 +23,7 @@ Before starting the registration process, ensure you have:
 4. On the Account Creation form, enter your email address or mobile number.
 
 
-5. If an Account Creation Prompt appears, click **Proceed to create an account**.
+5. If an Account Creation Prompt appears, select **Proceed to create an account**.
 
 
 6. Fill in your personal details to set up the account:
@@ -37,7 +37,7 @@ Before starting the registration process, ensure you have:
 > [!WARNING]
 > Never share your Amazon password or OTP with anyone. Amazon representatives will never ask for your password via phone, email, or SMS.
 
-7. Click **Verify mobile number**.
+7. Select **Verify mobile number**.
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Before starting the registration process, ensure you have:
 > [!NOTE]
 > The OTP is valid for 10 minutes.
 
-9. Enter the OTP into the verification screen and click **Create your Amazon account**.
+9. Enter the OTP into the verification screen and select **Create your Amazon account**.
 
 
 ## Verification and Next Steps
