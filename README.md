@@ -9,6 +9,6 @@ As a technical writer, I specialize in translating complex technical concepts in
 Here are a few samples of my recent documentation work:
 
 * [Amazon User Guide: Create an Account](https://github.com/jagat0034/User-Manuals/blob/main/Amazon%20User%20Guide_%20Creating%20an%20Account.md): A step-by-step consumer guide demonstrating task-based formatting, sequential instructions, and the effective use of UI callouts and warnings.
-* [Withdraw cash from an ATM](https://github.com/jagat0034/User-Manuals/blob/main/Withdrawing%20cash%20from%20an%20ATM_%20A%20user%20guide.pdf): A step-by-step PDF consumer guide built in [Confluence](https://parthasarathy14320-1776776976145.atlassian.net/wiki/spaces/~712020a6ba54d3857847eeb22198cbbe4e3b58/pages/2064385/Withdrawing+cash+from+an+ATM+A+user+guide) which features a custom draw.io flowchart and clear safety warnings, all written to Microsoft Manual of Style (MSTP) standards.
+* [Withdraw cash from an ATM](https://github.com/jagat0034/User-Manuals/blob/main/Withdraw%20cash%20from%20an%20ATM.pdf): A step-by-step PDF consumer guide built in [Confluence](https://parthasarathy14320-1776776976145.atlassian.net/wiki/spaces/~712020a6ba54d3857847eeb22198cbbe4e3b58/pages/2064385/Withdrawing+cash+from+an+ATM+A+user+guide) which features a custom draw.io flowchart and clear safety warnings, all written to Microsoft Manual of Style (MSTP) standards.
 
 
